@@ -8,7 +8,7 @@ package com.helele.geektime;
  */
 public class VolatileExample {
 
-    int i = 0;
+    int i = 1;
 
     volatile Boolean flag = false;
 
