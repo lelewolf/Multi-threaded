@@ -8,7 +8,7 @@ package com.helele.geektime;
  */
 public class Tesk {
 
-    private long count = 1;
+    private long count = 10;
 
     private void add10K() {
         int idx = 0;
